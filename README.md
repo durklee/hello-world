@@ -1,2 +1,1 @@
-# hello-world
-The Basics...
+Just a new coder looking to learn everything i can
